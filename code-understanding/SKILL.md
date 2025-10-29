@@ -77,28 +77,6 @@ python scripts/code_analyzer.py --format json
 python scripts/code_analyzer.py --verbose
 ```
 
-### 集成到开发流程
-- 在代码review前生成最新文档
-- 为新团队成员提供项目概览
-- 自动化技术文档维护
-
-## 常见项目支持
-
-### Web前端项目
-- React/Vue/Angular应用
-- 构建配置和依赖管理
-- 组件库和样式文件
-
-### 后端服务
-- RESTful API结构
-- 数据库模型和迁移
-- 微服务架构分析
-
-### 移动应用
-- iOS/Android项目结构
-- 跨平台框架支持
-- 资源文件组织
-
 ## 技能资源
 
 ### scripts/
